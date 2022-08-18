@@ -1,2 +1,2 @@
 # Lista-Programacao-estruturada
-lista de programacao Estruturada
+lista de programação Estruturada
